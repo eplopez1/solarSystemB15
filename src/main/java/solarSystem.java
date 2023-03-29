@@ -6,8 +6,8 @@ public class solarSystem {
 
              featureSun Xron=new featureSun();
              Xron.temperture="1231234";
-             Xron.radius=12312321;
+             Xron.radius="12312321";
              Xron.color="red";
-             
+
         }
 }
